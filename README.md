@@ -1,1 +1,3 @@
-# Pagina-inicial-instagram-HTML-CSS
+# Pagina-inicial-instagram
+
+## Projeto feito no bootcamp da Digital Inovation One para Desenvolvimento Web.
